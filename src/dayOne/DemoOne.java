@@ -11,6 +11,7 @@ public class DemoOne {
 	public static void subNum(int x, int y) {
 		System.out.println(x - y);
 
+		// added for loop
 		for (int i = 0; i >= 10; i++) {
 			System.out.println(i);
 		}
